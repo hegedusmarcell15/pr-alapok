@@ -4,4 +4,4 @@ if nap == "igen":
 elif nap == "nem":
     print(f"Remélem holnap jobb lesz")
 else:
-    print(f"Hát ez érdekes")
+    print(f"Sajnos nem értem a válaszodat")
